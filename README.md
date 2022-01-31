@@ -10,8 +10,8 @@
 You can click the Preview link to take a look at your changes.
 --->
 # **👋Hi everyone, I'm Simeon**
-<br>
 
+<br>
 <h2>
 I'm a student from Bulgaria, who loves coding.
 I'm mainly programming in Visual Studio & IntelliJ IDEA,
